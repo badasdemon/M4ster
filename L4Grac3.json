@@ -25,11 +25,12 @@
 		}
 	],
 	"Categories": [
-		{
-			"category": "Aircraft"
-		},
+		
 		{
 			"category": "All Mods"
+		},
+		{
+			"category": "Aircraft"
 		},
 		{
 			"category": "Alphabet Lore"
