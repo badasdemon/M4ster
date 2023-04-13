@@ -10,7 +10,7 @@
       "open_ads_admob":"ca-app-pub-2080033745578001/9899225451",
       "open_ads_alien":"",
       "switch_open_ads":"1",
-      "interval_intertitial": 2,
+      "interval_intertitial": 1,
       "initialize_sdk":"1905bec05",
       "initialize_sdk_backup_ads":"1905bec05",
       "high_paying_keyword_1": "",
